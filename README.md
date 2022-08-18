@@ -20,9 +20,9 @@
   - e
   
     
-- 行内公式 $ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. $
+- 行内公式 $\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$
     
-- 行间公式 $$ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. $$
+- 行间公式 $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
     
 > line
 
@@ -30,4 +30,15 @@
 
 
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+
+**Here is some math!**
+
+```python
+\sqrt{3}
+```
+
+$$
+x \ne 0
+$$
+

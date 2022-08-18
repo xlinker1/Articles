@@ -34,8 +34,16 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
 **Here is some math!**
 
-```python
+$$
 \sqrt{3}
+$$
+
+```python
+
+def do(f, n):
+    for i in range(n):
+        f()
+ 
 ```
 
 $$
